@@ -1,0 +1,37 @@
+🌐 Plant Your Flag Report (Week 7)
+1. Custom Domain
+Live URL: https://prakritibhandari.com
+
+HTTPS check: Site loads securely with padlock icon.
+
+Mobile test: Opened on iPhone, layout responsive and functional.
+
+2. Analytics Installed
+Tool used: Google Analytics (GA4)
+
+Evidence: Screenshot of Realtime dashboard showing active user.
+
+Tracking code: Added GA snippet in <head> of site.
+
+3. Launch Hygiene
+Social‑share preview: Verified with Open Graph tags.
+
+Favicon: Custom favicon visible in browser tab.
+
+Page titles: Each page has clear <title> tags.
+
+Phone check: Site loads correctly on mobile device.
+
+4. FlyRank Graduate Badge
+Badge installed in footer:
+
+html
+<footer>
+  <a href="https://internship-badge.netlify.app/verify/your-id">
+    <img src="https://internship-badge.netlify.app/badge.png" alt="FlyRank Graduate Badge">
+  </a>
+</footer>
+Verification: Badge visible, links to verification page.
+
+Screenshot: Footer with badge included.
+
