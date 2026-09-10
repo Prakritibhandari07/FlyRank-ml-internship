@@ -1,5 +1,15 @@
 # FlyRank ML Internship Capstone
 
+## Deliverables Index
+
+- **Paper (deployed)**: https://idyllic-sable-191e16.netlify.app/
+- **Capstone Notebook (Week 8)**: https://github.com/Prakritibhandari07/FlyRank-ml-internship/blob/main/work/notebooks/capstone.ipynb 
+- **Demo Outline + Shareable Cuts**: Inside the capstone notebook (last markdown cells)  
+- **README (Documentation)**: This file  
+- **Retrospective (Week 10)**: [Retrospective.md](work/Retrospective.md)  
+- **Hours Log**: Completed in portal (not public)  
+
+
 ## What it does and for whom
 This project builds and evaluates a ranking model on FlyRank’s anonymized production dataset.  
 It is designed for AI/ML learners, reviewers, and employers to demonstrate applied machine learning at scale.
