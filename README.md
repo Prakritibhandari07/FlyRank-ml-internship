@@ -3,6 +3,7 @@
 ## Deliverables Index
 
 - **Paper (deployed)**: https://idyllic-sable-191e16.netlify.app/
+- -paper :https://prakritibhandari07.github.io/FlyRank-ml-internship/
 - **Capstone Notebook (Week 8)**: https://github.com/Prakritibhandari07/FlyRank-ml-internship/blob/main/work/notebooks/capstone.ipynb 
 - **Demo Outline + Shareable Cuts**: Inside the capstone notebook (last markdown cells)  
 - **README (Documentation)**: This file
