@@ -7,6 +7,7 @@
 - **Demo Outline + Shareable Cuts**: Inside the capstone notebook (last markdown cells)  
 - **README (Documentation)**: This file
 - - **Reminder Evidence**: ![Reminder Screenshot](work/reminder_screenshot.png)
+- **Demo Video (3–5 min)**: https://www.loom.com/share/f9991e96a69240eabf71144ebb9574da
 
 - **Retrospective (Week 10)**: [Retrospective.md](work/Retrospective.md)  
 - **Hours Log**: Completed in portal (not public)  
